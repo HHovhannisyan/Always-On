@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AlwaysOn</string>
+    <string name="Retry">TRY AGAIN</string>
+    <string name="no_internet">NO CONNECTION!</string>
+    <string name="no_internet_desc">No Internet connection found. Please, check your connection or try again.</string>
+    <string name="loading">Loading…</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="webpage_not_found">Website not found</string>
+    <string name="close">Close</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <!--
+        <string name="loading">Loading\u25CF\u25CF\u25CF</string>
+    -->
+</resources>

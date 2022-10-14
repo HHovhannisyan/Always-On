@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/purple_700" />
+    <item android:gravity="center">
+        <layer-list>
+            <item
+
+                android:drawable="@drawable/logo_image"
+                android:gravity="center" />
+
+            <item
+                android:drawable="@drawable/loading"
+                android:gravity="center"
+                android:top="150dp" />
+
+        </layer-list>
+    </item>
+    <!-- <item>
+        <inset>
+            <selector>
+
+
+
+
+            </selector>
+        </inset>
+    </item>-->
+
+</layer-list>
+
